@@ -4,7 +4,11 @@
 
 This video gives an overall walkthrough of DeepPeek, showing all its functionalities:
 
-https://github.com/eduardoslonski/DeepPeek_private/assets/121900778/ef148fdf-1d41-4559-be71-237fc82fac83
+
+
+https://github.com/eduardoslonski/DeepPeek/assets/121900778/0a335461-279f-4aa8-8f9b-6b357f572069
+
+
 
 ### Tools
 
