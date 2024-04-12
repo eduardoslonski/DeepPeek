@@ -1,0 +1,286 @@
+{
+  "Saved": [
+    { "title": "Michael Jackson Wikipedia", "tokens": 1222 },
+    { "title": "ICL gradients testing", "tokens": 591 }
+  ],
+  "Slimpajama": [
+    { "title": 0, "tokens": 2048 },
+    { "title": 1, "tokens": 2048 },
+    { "title": 2, "tokens": 2048 },
+    { "title": 3, "tokens": 2048 },
+    { "title": 4, "tokens": 2048 },
+    { "title": 5, "tokens": 2048 },
+    { "title": 6, "tokens": 2048 },
+    { "title": 7, "tokens": 2048 },
+    { "title": 8, "tokens": 2048 },
+    { "title": 9, "tokens": 2048 },
+    { "title": 10, "tokens": 2048 },
+    { "title": 11, "tokens": 2048 },
+    { "title": 12, "tokens": 2048 },
+    { "title": 13, "tokens": 2048 },
+    { "title": 14, "tokens": 2048 },
+    { "title": 15, "tokens": 2048 },
+    { "title": 16, "tokens": 2048 },
+    { "title": 17, "tokens": 2048 },
+    { "title": 18, "tokens": 2048 },
+    { "title": 19, "tokens": 2048 }
+  ],
+  "AI4Code": [
+    { "title": "Graduate Admission Prediction Model Analysis", "tokens": 1932 },
+    { "title": "HPA Model Training and Evaluation Guide", "tokens": 2048 },
+    {
+      "title": "GPT Sample Research: Trigram Vocabulary Generation",
+      "tokens": 2048
+    },
+    { "title": "Exploring NGBoost for Predictive Modeling", "tokens": 1802 },
+    {
+      "title": "Visualizing Seismic Activity by Lunar Phase and Position",
+      "tokens": 2048
+    },
+    { "title": "Essential Techniques for Model Ensembling", "tokens": 2048 },
+    {
+      "title": "Exploring and Comparing Breast Cancer Classification",
+      "tokens": 1830
+    },
+    {
+      "title": "Whale Species Recognition with CNN and Data Augmentation",
+      "tokens": 2048
+    },
+    {
+      "title": "Enabling Kaggle Autocomplete: Disabling Jedi in Console",
+      "tokens": 2048
+    },
+    {
+      "title": "Understanding HOG Feature Extraction in Image Analysis",
+      "tokens": 1744
+    }
+  ],
+  "OtherWiki": [
+    { "title": "Rise of Surveillance Capitalism and Society", "tokens": 530 },
+    {
+      "title": "Exploring the Multifaceted Metropolis of Hong Kong",
+      "tokens": 2048
+    },
+    {
+      "title": "Understanding Banking and Non-Banking Financial Institutions",
+      "tokens": 1142
+    },
+    {
+      "title": "Shortest Metal-Metal Quintuple Bond Discovered",
+      "tokens": 450
+    },
+    {
+      "title": "Foundations of Sigma-Algebras in Probability Theory",
+      "tokens": 662
+    },
+    {
+      "title": "Understanding Linear Maps and Basis Isomorphisms",
+      "tokens": 513
+    },
+    {
+      "title": "New Year Greetings and Wikimedia Community Initiatives",
+      "tokens": 841
+    },
+    { "title": "Historical Guide to East Providence Town", "tokens": 2048 },
+    {
+      "title": "Ada Strings Wide_Bounded Library Specification",
+      "tokens": 2048
+    },
+    {
+      "title": "Exploring Galiano Island: Travel and Activities Guide",
+      "tokens": 2048
+    }
+  ],
+  "Enwiki": [
+    {
+      "title": "Tony Bianchi: Bilingual Literary Contributions",
+      "tokens": 922
+    },
+    {
+      "title": "Exploring the Cherry Barb: Freshwater Fish Profile",
+      "tokens": 636
+    },
+    { "title": "Tachinid Fly Species: Chaetocrania Antennalis", "tokens": 31 },
+    { "title": "Eminescu's Linden Tree: Symbol and Survivor", "tokens": 527 },
+    {
+      "title": "Ocean Tracking Network: Deciphering Fish Migration Patterns",
+      "tokens": 77
+    },
+    {
+      "title": "Historic Itsukaichi Kaid\u014d: Tokyo's Charcoal Lifeline",
+      "tokens": 232
+    },
+    {
+      "title": "North Korean Cinema: Ideology Through Film Artistry",
+      "tokens": 1948
+    },
+    {
+      "title": "Yutian County: A Cultural and Historical Overview",
+      "tokens": 1032
+    },
+    { "title": "Charting Medieval Life in Sarrant Village", "tokens": 181 },
+    { "title": "Hanns Braun: Olympian and WWI Fighter Pilot", "tokens": 339 }
+  ],
+  "arXiv": [
+    {
+      "title": "COMET: Enhancing Small Object Tracking in Aerial Videos",
+      "tokens": 2048
+    },
+    {
+      "title": "Atacama Cosmology Telescope: Galaxy Cluster Characteristics",
+      "tokens": 2048
+    },
+    {
+      "title": "Joint Video-Language Embedding for Unseen Activity Recognition",
+      "tokens": 2048
+    },
+    {
+      "title": "Causality and Quantum Constraints in EPRB Experiments",
+      "tokens": 2048
+    },
+    {
+      "title": "Equilibrium States and Dynamics on Genus-2+ Surfaces",
+      "tokens": 2048
+    },
+    {
+      "title": "Multi-Agent Autonomous Exploration Framework Design",
+      "tokens": 2048
+    },
+    {
+      "title": "Exploring Rigidity in Pentagram Maps and Poncelet Polygons",
+      "tokens": 126
+    },
+    {
+      "title": "Liquid Crystal Alignment on Square-Patterned Substrates",
+      "tokens": 2048
+    },
+    { "title": "Isospin Analysis of B to Rho Pi Decays", "tokens": 2048 },
+    {
+      "title": "Noncommutative Quantum Hall and Skyrmion Analysis",
+      "tokens": 2048
+    }
+  ],
+  "GithubIssues": [
+    { "title": "Controller Component onBlur Event Issue", "tokens": 247 },
+    { "title": "Expanding Insert Object with Extra Fields", "tokens": 272 },
+    { "title": "Brave Rewards Wallet Environment Mismatch", "tokens": 576 },
+    { "title": "Gradle Kotlin DSL Plugin Syntax Adoption", "tokens": 825 },
+    { "title": "Indexing CRTP Specializations in Source Code", "tokens": 210 },
+    { "title": "Java File Monitoring Feature Failure in OSV", "tokens": 1527 },
+    {
+      "title": "Troubleshooting SimpleCV Virtualenv Installation Issues",
+      "tokens": 1325
+    },
+    {
+      "title": "gRPC Client Serialization and Decision Task Bug",
+      "tokens": 671
+    },
+    { "title": "Intermittent Keyboard Visibility in Web Forms", "tokens": 604 },
+    { "title": "Accessing DtBlkFx Source Code Information", "tokens": 56 }
+  ],
+  "Gutenberg": [
+    {
+      "title": "Exploring Tragedy and Conspiracy in \"Venice Preserved\"",
+      "tokens": 2048
+    },
+    {
+      "title": "Exploring Shakespeare: A Theatrical Invention",
+      "tokens": 2048
+    },
+    { "title": "Economy and Aesthetics in Golf Course Design", "tokens": 2048 },
+    {
+      "title": "Hills of Refuge: Family and Financial Turmoil",
+      "tokens": 2048
+    },
+    {
+      "title": "Clara Vaughan: A Tale of Mystery and Resolution",
+      "tokens": 2048
+    },
+    { "title": "Billy Whiskers' Daring Escape from War", "tokens": 2048 },
+    { "title": "Tensions Rise in Space Freight Partnership", "tokens": 2048 },
+    { "title": "Vignettes from a Bygone Era", "tokens": 2048 },
+    {
+      "title": "Footsteps of Fate: Revolution in Dutch Literary Taste",
+      "tokens": 2048
+    },
+    { "title": "Exploring \"Limbo\" in Literature and Legacy", "tokens": 2048 }
+  ],
+  "Opensubtitles": [
+    {
+      "title": "Rogue Heir's Reckless Antics Threaten Corporation",
+      "tokens": 236
+    },
+    { "title": "Embracing the Misfit Uncle's Legacy", "tokens": 204 },
+    { "title": "Mistress Isolde's Will and Tristan's Loyalty", "tokens": 176 },
+    { "title": "Gangster Negotiations and Life's Gamble", "tokens": 170 },
+    { "title": "Escaping Jafar's Grip: A Disney Adventure", "tokens": 245 },
+    { "title": "Encouragement During Labor and Delivery", "tokens": 173 },
+    {
+      "title": "Downtime at the Racetrack: Risks and Relationships",
+      "tokens": 180
+    },
+    { "title": "Body Image and Modern Dating Expectations", "tokens": 213 },
+    { "title": "Rescuing Archer: A KGB Capture Scenario", "tokens": 229 },
+    { "title": "Reflecting on Career and Personal Choices", "tokens": 191 }
+  ],
+  "PubMed": [
+    { "title": "Nasal Challenges in Asthma Phenotyping", "tokens": 2048 },
+    {
+      "title": "Pediatric Solid Tumor Treatment and Body Composition Analysis",
+      "tokens": 2048
+    },
+    {
+      "title": "Enhancing DRUJ Stability with Radius Distraction",
+      "tokens": 2048
+    },
+    {
+      "title": "Unraveling HIF Signaling in Newborn Pulmonary Hypertension",
+      "tokens": 2048
+    },
+    {
+      "title": "Global Transcriptional Changes in T24 Cells Without Glucose",
+      "tokens": 339
+    },
+    {
+      "title": "Impact of Chilean Law on Sweeteners and Food Reformulation",
+      "tokens": 2048
+    },
+    {
+      "title": "Advancements in Radical Generation Without Tin",
+      "tokens": 2048
+    },
+    { "title": "Nanofluids Boiling Heat Transfer Review", "tokens": 2048 },
+    {
+      "title": "Effects of Moderate Exercise on Canine Bone Markers",
+      "tokens": 2048
+    },
+    {
+      "title": "Detecting Indel Mutations in Zebrafish with PCR Technique",
+      "tokens": 2048
+    }
+  ],
+  "TheStack": [
+    {
+      "title": "CMake Configuration for C++ Dependency Tracking",
+      "tokens": 227
+    },
+    { "title": "PHP Zimbra Add GalSync DataSource Class", "tokens": 1049 },
+    { "title": "Static Routing Table Interface Management", "tokens": 139 },
+    { "title": "AMP Femerge Tag Validator Class Specification", "tokens": 450 },
+    { "title": "Testing Semantic Extensions in API Modeling", "tokens": 533 },
+    { "title": "Custom Overdue Reminder Clock Icon", "tokens": 724 },
+    { "title": "Honoring the Knights of Code and Song", "tokens": 2048 },
+    {
+      "title": "Intersight IaaS Device Status Management Guide",
+      "tokens": 612
+    },
+    {
+      "title": "EquiJoinCondition Interface in Extbase Persistence",
+      "tokens": 112
+    },
+    {
+      "title": "Integrating AWS Lex with Intelligent Assistant Service",
+      "tokens": 132
+    }
+  ]
+}
